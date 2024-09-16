@@ -7,3 +7,5 @@
 - 'vim file name' to open a file
 
 - 'git add filename' ->to track changes in file
+
+- 'git commmit -m "message"->this create a new version besed on your prev changes.
